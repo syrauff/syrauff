@@ -1,4 +1,6 @@
-Hello World👋, My name is Syahrul Ridho R. Rauf
+<h1 style="display:inline-block; white-space:nowrap; overflow:hidden; border-right:.15em solid orange; font-size:24px; width:15ch; animation: typing 3.5s steps(30, end), blink-caret .75s step-end infinite;">
+  Hi 👋 My name is Syahrul Ridho R. Rauf
+</h1>
 ======================================
 
 The Lazy Explorer
