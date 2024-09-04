@@ -29,7 +29,7 @@ The Lazy Explorer
 <table>
   <tr>
     <td>
-      ![syrauff's Stats](https://github-readme-stats.vercel.app/api?username=syrauff&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+      ![Syrauff's GitHub stats](https://github-readme-stats.vercel.app/api?username=syrauff&show_icons=true&theme=gruvbox)
     </td>
     <td style="padding-left: 20px;">
       <a href="http://www.github.com/syrauff">
