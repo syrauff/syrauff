@@ -26,8 +26,11 @@ The Lazy Explorer
 
 <b>My GitHub Stats</b>
 
-![Syrauff's GitHub stats](https://github-readme-stats.vercel.app/api?username=syrauff&show_icons=true&theme=blue-green)
+![Syrauff's GitHub stats](https://github-readme-stats.vercel.app/api?username=syrauff&show_icons=true&theme=radical)
 
+<b>My Top Language</b>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syrauff&layout=pie)](https://github.com/syrauff/github-readme-stats)
 
 
 
