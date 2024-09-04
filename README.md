@@ -26,25 +26,8 @@ The Lazy Explorer
 
 <b>My GitHub Stats</b>
 
-<table>
-  <tr>
-    <td>
-      ![Syrauff's GitHub stats](https://github-readme-stats.vercel.app/api?username=syrauff&show_icons=true&theme=gruvbox)
-    </td>
-    <td style="padding-left: 20px;">
-      <a href="http://www.github.com/syrauff">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=syrauff&stroke=22c55e&background=0f172a&ring=facc15&fire=facc15&currStreakNum=22c55e&currStreakLabel=facc15&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" alt="syrauff's GitHub streak" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="text-align: center;">
-      <a href="https://github.com/syrauff">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syrauff&langs_count=10&title_color=facc15&text_color=22c55e&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
+![Syrauff's GitHub stats](https://github-readme-stats.vercel.app/api?username=syrauff&show_icons=true&theme=blue-green)
+
 
 
 
