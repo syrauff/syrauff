@@ -29,7 +29,7 @@ The Lazy Explorer
 <table>
   <tr>
     <td>
-      <a href="http://www.github.com/syrauff"><img src="https://github-readme-stats.vercel.app/api?username=syrauff&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=22c55e&icon_color=14b8a6&bg_color=0f172a&hide_border=true&show_icons=true" alt="syrauff's GitHub stats" /></a>
+      ![syrauff's Stats](https://github-readme-stats.vercel.app/api?username=syrauff&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
     </td>
     <td style="padding-left: 20px;">
       <a href="http://www.github.com/syrauff">
