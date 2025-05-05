@@ -1,14 +1,14 @@
-<h1 style="display:inline-block; white-space:nowrap; overflow:hidden; border-right:.15em solid orange; font-size:24px; width:15ch; animation: typing 3.5s steps(30, end), blink-caret .75s step-end infinite;">
-  Hi 👋 My name is Syahrul Ridho R. Rauf
-</h1>
-======================================
+
+![syrauff](img/hello_syrauff_typing.gif)
+
+![my-fullname](img/github-name.png)
 
 The Lazy Explorer
 -----------------
 
 * 🌍  I'm based in Gorontalo, Indonesia
 * ✉️  You can contact me at [syahrulrrauf@gmail.com](mailto:syahrulrrauf@gmail.com)
-* 🧠  I'm learning Basic Machine Learning
+* 🧠  I'm learning Laravel
 
 ### Skills
 
@@ -29,6 +29,14 @@ The Lazy Explorer
 ![Syrauff's GitHub stats](https://github-readme-stats.vercel.app/api?username=syrauff&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syrauff&layout=compact&langs_count=8&card_width=320)](https://github.com/syrauff/github-readme-stats)
 
+### Activity
 
+<b>My Activity</b>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syrauff/syrauff/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syrauff/syrauff/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/syrauff/syrauff/output/pacman-contribution-graph.svg">
+</picture>
 
+###
