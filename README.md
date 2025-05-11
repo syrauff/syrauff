@@ -8,7 +8,7 @@ The Lazy Explorer
 
 * 🌍  I'm based in Gorontalo, Indonesia
 * ✉️  You can contact me at [syahrulrrauf@gmail.com](mailto:syahrulrrauf@gmail.com)
-* 🧠  I'm learning Laravel
+* 🧠  I'm learning Laravel and Vue
 
 ### Skills
 
