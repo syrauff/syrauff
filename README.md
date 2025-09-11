@@ -29,14 +29,6 @@ The Lazy Explorer
 ![Syrauff's GitHub stats](https://github-readme-stats.vercel.app/api?username=syrauff&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syrauff&layout=compact&langs_count=8&card_width=320)](https://github.com/syrauff/github-readme-stats)
 
-### Activity
 
-<b>My Activity</b>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syrauff/syrauff/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syrauff/syrauff/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/syrauff/syrauff/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
